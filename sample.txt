@@ -1,3 +1,5 @@
 원숭이도 이해할 수 있는 git command
-xe3.onstreet.kr에서 수정함 
+xe3.onstreet.kr에서 수정함
+===>xe.onstreet.kr에서 다시 수정함
+ 
  
